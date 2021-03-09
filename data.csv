@@ -1,4 +1,44 @@
-title,body,assignees
-First issue,First content,"aeharake"
-Second issue, Second content,"aeharake"
-Third issue, Third content,"aeharake,aeharake"
+title	assignees
+Super admin: Get all inventories	aeharake
+Super admin: Get all shop owners	aeharake
+Super admin: Get all locations	aeharake
+Super admin: Filter shop owners by location	aeharake
+Super admin: Get all shop owner's technicians	aeharake
+Super admin: Get shop owner's personal details	aeharake
+Super admin: Get technician's personal details	aeharake
+Super admin: Get all service requests (HEAD = service provider name, request number, status, date)	aeharake
+Super admin: Get service tickets details	aeharake
+Super admin: Create Shop owner	aeharake
+Super admin: Create shop owner's technician	aeharake
+Super admin: Create inventories	aeharake
+Super admin: Create new service request ticket	aeharake
+Super admin: Bulk insert inventories	aeharake
+Super admin: Delete inventories (multiple or single)	aeharake
+Super admin: edit inventories	aeharake
+Super admin: edit shop owner	aeharake
+Super admin: edit shop owner's technicians	aeharake
+Super admin can search for Shop owners	aeharake
+Super admin can search for shop owner's Technicians by name	aeharake
+Super admin can search and filter for inventories by name	aeharake
+Super admin can search for tickets by ID or Service provider name (username)	aeharake
+Super admin dashboard: Get total, pending, complete, in-progress number of tickets	aeharake
+Super admin dashboard: Get top replaced spare parts	aeharake
+Super admin dashboard: Cause of defect percentage (External or Manufacturing)	aeharake
+Shop owner: Get all inventories	aeharake
+Shop owner: Get all locations	aeharake
+Shop owner: Get all his technicians	aeharake
+Shop owner: Get all his service requests	aeharake
+Shop owner: Get his service request details	aeharake
+Shop owner: Get list of technicians with the number associated tickets to them. (all-time: pending, complete and in-progress)	aeharake
+Shop owner: Get device details by Serial number (date of purchase + warranty end date) 	aeharake
+Shop owner: Filtering technicians by active/inactive	aeharake
+Shop owner: Create Technician account	aeharake
+Shop owner: Ability to request more inventories (Ask for more spare parts)	aeharake
+Shop owner: Ability to register an account for self	aeharake
+Technicians: Get all service requests.	aeharake
+Technicians: Service request details.	aeharake
+Settings: Ability to change username after sign-in? 	aeharake
+Settings: Ability to change password	aeharake
+Recovery: Ability to reset password	aeharake
+Customers: Fill service requests on the website.	aeharake
+Validate techs belong to shop owner before proceeding with enable/disable/delete	aeharake
